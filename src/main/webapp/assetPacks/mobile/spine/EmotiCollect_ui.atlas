@@ -1,0 +1,431 @@
+
+EmotiCollect_ui.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/BuyButton
+  rotate: false
+  xy: 244, 407
+  size: 135, 44
+  orig: 135, 44
+  offset: 0, 0
+  index: -1
+images/Halo_white
+  rotate: false
+  xy: 122, 260
+  size: 145, 145
+  orig: 154, 154
+  offset: 6, 6
+  index: -1
+images/Light_off_half
+  rotate: false
+  xy: 2, 2
+  size: 502, 256
+  orig: 502, 256
+  offset: 0, 0
+  index: -1
+images/Light_on
+  rotate: false
+  xy: 135, 426
+  size: 25, 25
+  orig: 25, 25
+  offset: 0, 0
+  index: -1
+images/ballbonus
+  rotate: false
+  xy: 381, 345
+  size: 106, 106
+  orig: 106, 106
+  offset: 0, 0
+  index: -1
+images/grid_blue_1_on
+  rotate: false
+  xy: 2, 438
+  size: 13, 13
+  orig: 13, 13
+  offset: 0, 0
+  index: -1
+images/grid_green_1_on
+  rotate: false
+  xy: 17, 438
+  size: 13, 13
+  orig: 13, 13
+  offset: 0, 0
+  index: -1
+images/grid_pink_1_on
+  rotate: false
+  xy: 32, 438
+  size: 13, 13
+  orig: 13, 13
+  offset: 0, 0
+  index: -1
+images/grid_pt_1_on
+  rotate: false
+  xy: 92, 436
+  size: 41, 15
+  orig: 41, 15
+  offset: 0, 0
+  index: -1
+images/grid_purple_1_on
+  rotate: false
+  xy: 47, 438
+  size: 13, 13
+  orig: 13, 13
+  offset: 0, 0
+  index: -1
+images/grid_red_1_on
+  rotate: false
+  xy: 62, 438
+  size: 13, 13
+  orig: 13, 13
+  offset: 0, 0
+  index: -1
+images/grid_white
+  rotate: false
+  xy: 189, 424
+  size: 53, 27
+  orig: 53, 27
+  offset: 0, 0
+  index: -1
+images/grid_white_01
+  rotate: false
+  xy: 162, 426
+  size: 25, 25
+  orig: 25, 25
+  offset: 0, 0
+  index: -1
+images/grid_yellow_1_on
+  rotate: false
+  xy: 77, 438
+  size: 13, 13
+  orig: 13, 13
+  offset: 0, 0
+  index: -1
+images/spin_aperture_000
+  rotate: true
+  xy: 2, 319
+  size: 115, 118
+  orig: 120, 120
+  offset: 2, 1
+  index: -1
+
+EmotiCollect_ui2.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/BuyButton/BuyButton_00000
+  rotate: true
+  xy: 428, 91
+  size: 134, 32
+  orig: 135, 44
+  offset: 0, 1
+  index: -1
+images/BuyButton/BuyButton_00002
+  rotate: true
+  xy: 90, 90
+  size: 135, 34
+  orig: 135, 44
+  offset: 0, 1
+  index: -1
+images/BuyButton/BuyButton_00003
+  rotate: true
+  xy: 389, 91
+  size: 134, 37
+  orig: 135, 44
+  offset: 0, 1
+  index: -1
+images/BuyButton/BuyButton_00005
+  rotate: true
+  xy: 126, 91
+  size: 134, 42
+  orig: 135, 44
+  offset: 0, 1
+  index: -1
+images/BuyButton/BuyButton_00006
+  rotate: false
+  xy: 2, 2
+  size: 134, 42
+  orig: 135, 44
+  offset: 0, 1
+  index: -1
+images/BuyButton/BuyButton_00008
+  rotate: false
+  xy: 410, 3
+  size: 133, 42
+  orig: 135, 44
+  offset: 0, 1
+  index: -1
+images/BuyButton/BuyButton_00009
+  rotate: false
+  xy: 138, 2
+  size: 134, 42
+  orig: 135, 44
+  offset: 0, 1
+  index: -1
+images/BuyButton/BuyButton_00011
+  rotate: false
+  xy: 139, 47
+  size: 134, 42
+  orig: 135, 44
+  offset: 0, 1
+  index: -1
+images/BuyButton/BuyButton_00012
+  rotate: true
+  xy: 2, 90
+  size: 135, 42
+  orig: 135, 44
+  offset: 0, 1
+  index: -1
+images/BuyButton/BuyButton_00014
+  rotate: false
+  xy: 2, 46
+  size: 135, 42
+  orig: 135, 44
+  offset: 0, 1
+  index: -1
+images/BuyButton/BuyButton_00015
+  rotate: true
+  xy: 170, 91
+  size: 134, 42
+  orig: 135, 44
+  offset: 1, 1
+  index: -1
+images/BuyButton/BuyButton_00017
+  rotate: true
+  xy: 214, 91
+  size: 134, 42
+  orig: 135, 44
+  offset: 1, 1
+  index: -1
+images/BuyButton/BuyButton_00018
+  rotate: true
+  xy: 258, 91
+  size: 134, 42
+  orig: 135, 44
+  offset: 1, 1
+  index: -1
+images/BuyButton/BuyButton_00020
+  rotate: true
+  xy: 46, 90
+  size: 135, 42
+  orig: 135, 44
+  offset: 0, 1
+  index: -1
+images/BuyButton/BuyButton_00021
+  rotate: false
+  xy: 274, 3
+  size: 134, 42
+  orig: 135, 44
+  offset: 1, 1
+  index: -1
+images/BuyButton/BuyButton_00023
+  rotate: false
+  xy: 275, 47
+  size: 134, 42
+  orig: 135, 44
+  offset: 1, 1
+  index: -1
+images/BuyButton/BuyButton_00024
+  rotate: true
+  xy: 302, 91
+  size: 134, 42
+  orig: 135, 44
+  offset: 1, 1
+  index: -1
+images/BuyButton/BuyButton_00026
+  rotate: true
+  xy: 346, 91
+  size: 134, 41
+  orig: 135, 44
+  offset: 1, 2
+  index: -1
+images/BuyButton/BuyButton_00027
+  rotate: false
+  xy: 411, 49
+  size: 133, 40
+  orig: 135, 44
+  offset: 1, 2
+  index: -1
+images/BuyButton/BuyButton_00029
+  rotate: true
+  xy: 462, 91
+  size: 134, 32
+  orig: 135, 44
+  offset: 1, 1
+  index: -1
+
+EmotiCollect_ui3.png
+size: 2048,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/spine_left/spine_glow_001
+  rotate: true
+  xy: 990, 378
+  size: 132, 128
+  orig: 138, 138
+  offset: 0, 5
+  index: -1
+images/spine_left/spine_glow_003
+  rotate: true
+  xy: 1076, 109
+  size: 132, 119
+  orig: 138, 138
+  offset: 0, 10
+  index: -1
+images/spine_left/spine_glow_005
+  rotate: false
+  xy: 855, 377
+  size: 133, 133
+  orig: 138, 138
+  offset: 0, 2
+  index: -1
+images/spine_left/spine_glow_007
+  rotate: false
+  xy: 2, 20
+  size: 133, 138
+  orig: 138, 138
+  offset: 0, 0
+  index: -1
+images/spine_left/spine_glow_009
+  rotate: false
+  xy: 137, 20
+  size: 127, 138
+  orig: 138, 138
+  offset: 2, 0
+  index: -1
+images/spine_left/spine_glow_011
+  rotate: false
+  xy: 266, 24
+  size: 121, 137
+  orig: 138, 138
+  offset: 7, 1
+  index: -1
+images/spine_left/spine_glow_013
+  rotate: false
+  xy: 389, 24
+  size: 121, 137
+  orig: 138, 138
+  offset: 12, 1
+  index: -1
+images/spine_left/spine_glow_015
+  rotate: false
+  xy: 512, 27
+  size: 121, 134
+  orig: 138, 138
+  offset: 17, 2
+  index: -1
+images/spine_left/spine_glow_017
+  rotate: false
+  xy: 972, 243
+  size: 129, 132
+  orig: 138, 138
+  offset: 8, 3
+  index: -1
+images/spine_left/spine_glow_019
+  rotate: true
+  xy: 1103, 245
+  size: 131, 127
+  orig: 138, 138
+  offset: 6, 6
+  index: -1
+images/spine_left/spine_glow_021
+  rotate: true
+  xy: 968, 77
+  size: 133, 106
+  orig: 138, 138
+  offset: 2, 16
+  index: -1
+images/spine_left/spine_glow_023
+  rotate: true
+  xy: 853, 212
+  size: 134, 117
+  orig: 138, 138
+  offset: 1, 11
+  index: -1
+images/spine_left/spine_star_001
+  rotate: false
+  xy: 690, 178
+  size: 161, 162
+  orig: 180, 180
+  offset: 6, 10
+  index: -1
+images/spine_left/spine_star_003
+  rotate: false
+  xy: 523, 169
+  size: 165, 168
+  orig: 180, 180
+  offset: 4, 7
+  index: -1
+images/spine_left/spine_star_005
+  rotate: false
+  xy: 177, 163
+  size: 171, 171
+  orig: 180, 180
+  offset: 1, 5
+  index: -1
+images/spine_left/spine_star_007
+  rotate: true
+  xy: 2, 336
+  size: 174, 173
+  orig: 180, 180
+  offset: 0, 3
+  index: -1
+images/spine_left/spine_star_009
+  rotate: false
+  xy: 692, 348
+  size: 161, 162
+  orig: 180, 180
+  offset: 6, 10
+  index: -1
+images/spine_left/spine_star_011
+  rotate: true
+  xy: 635, 2
+  size: 165, 168
+  orig: 180, 180
+  offset: 4, 7
+  index: -1
+images/spine_left/spine_star_013
+  rotate: false
+  xy: 350, 163
+  size: 171, 171
+  orig: 180, 180
+  offset: 1, 5
+  index: -1
+images/spine_left/spine_star_015
+  rotate: true
+  xy: 2, 160
+  size: 174, 173
+  orig: 180, 180
+  offset: 0, 3
+  index: -1
+images/spine_left/spine_star_017
+  rotate: false
+  xy: 805, 14
+  size: 161, 162
+  orig: 180, 180
+  offset: 6, 10
+  index: -1
+images/spine_left/spine_star_019
+  rotate: false
+  xy: 525, 342
+  size: 165, 168
+  orig: 180, 180
+  offset: 4, 7
+  index: -1
+images/spine_left/spine_star_021
+  rotate: false
+  xy: 352, 339
+  size: 171, 171
+  orig: 180, 180
+  offset: 1, 5
+  index: -1
+images/spine_left/spine_star_023
+  rotate: true
+  xy: 177, 336
+  size: 174, 173
+  orig: 180, 180
+  offset: 0, 3
+  index: -1

@@ -1,0 +1,327 @@
+
+emoti.png
+size: 2017,491
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/Blue_Outerglow
+  rotate: false
+  xy: 736, 261
+  size: 230, 230
+  orig: 250, 250
+  offset: 10, 10
+  index: -1
+images/Cup_.Outerglowpng
+  rotate: true
+  xy: 503, 261
+  size: 230, 231
+  orig: 230, 231
+  offset: 0, 0
+  index: -1
+images/Green_Outerglow
+  rotate: false
+  xy: 503, 36
+  size: 228, 223
+  orig: 250, 250
+  offset: 11, 13
+  index: -1
+images/Pink_Outerglow
+  rotate: false
+  xy: 968, 261
+  size: 230, 230
+  orig: 250, 250
+  offset: 10, 10
+  index: -1
+images/Purple_Outerglow
+  rotate: false
+  xy: 1200, 261
+  size: 230, 230
+  orig: 250, 250
+  offset: 10, 10
+  index: -1
+images/Red_Outerglow
+  rotate: false
+  xy: 1432, 261
+  size: 230, 230
+  orig: 250, 250
+  offset: 10, 10
+  index: -1
+images/Yellow_1
+  rotate: false
+  xy: 1594, 171
+  size: 200, 88
+  orig: 200, 88
+  offset: 0, 0
+  index: -1
+images/Yellow_3
+  rotate: true
+  xy: 1896, 377
+  size: 114, 113
+  orig: 114, 113
+  offset: 0, 0
+  index: -1
+images/Yellow_Outerglow
+  rotate: false
+  xy: 1664, 261
+  size: 230, 230
+  orig: 250, 250
+  offset: 10, 10
+  index: -1
+images/baseball
+  rotate: false
+  xy: 1896, 263
+  size: 112, 112
+  orig: 112, 112
+  offset: 0, 0
+  index: -1
+images/basketball
+  rotate: false
+  xy: 1896, 149
+  size: 112, 112
+  orig: 112, 112
+  offset: 0, 0
+  index: -1
+images/ci0001
+  rotate: false
+  xy: 733, 0
+  size: 119, 44
+  orig: 150, 72
+  offset: 15, 14
+  index: -1
+images/ci0002
+  rotate: true
+  xy: 1449, 20
+  size: 125, 48
+  orig: 150, 72
+  offset: 13, 12
+  index: -1
+images/ci0003
+  rotate: false
+  xy: 949, 12
+  size: 125, 61
+  orig: 150, 72
+  offset: 5, 6
+  index: -1
+images/ci0004
+  rotate: false
+  xy: 1649, 7
+  size: 104, 47
+  orig: 150, 72
+  offset: 11, 12
+  index: -1
+images/cup1
+  rotate: true
+  xy: 1499, 56
+  size: 89, 81
+  orig: 89, 81
+  offset: 0, 0
+  index: -1
+images/cup2
+  rotate: true
+  xy: 2000, 58
+  size: 89, 17
+  orig: 91, 47
+  offset: 0, 30
+  index: -1
+images/cup_h
+  rotate: true
+  xy: 1076, 12
+  size: 61, 59
+  orig: 61, 59
+  offset: 0, 0
+  index: -1
+images/cup_left
+  rotate: true
+  xy: 1362, 23
+  size: 38, 82
+  orig: 38, 82
+  offset: 0, 0
+  index: -1
+images/football
+  rotate: false
+  xy: 1138, 147
+  size: 112, 112
+  orig: 112, 112
+  offset: 0, 0
+  index: -1
+images/glow_yellow
+  rotate: false
+  xy: 733, 46
+  size: 214, 213
+  orig: 302, 302
+  offset: 40, 48
+  index: -1
+images/glow_yellow_001
+  rotate: true
+  xy: 0, 23
+  size: 468, 501
+  orig: 468, 501
+  offset: 0, 0
+  index: -1
+images/green_1
+  rotate: false
+  xy: 1582, 0
+  size: 65, 58
+  orig: 65, 58
+  offset: 0, 0
+  index: -1
+images/green_2
+  rotate: false
+  xy: 1138, 39
+  size: 110, 106
+  orig: 110, 106
+  offset: 0, 0
+  index: -1
+images/light_head
+  rotate: false
+  xy: 1362, 63
+  size: 85, 82
+  orig: 85, 82
+  offset: 0, 0
+  index: -1
+images/light_left
+  rotate: false
+  xy: 2000, 27
+  size: 8, 29
+  orig: 8, 29
+  offset: 0, 0
+  index: -1
+images/lightdown
+  rotate: false
+  xy: 854, 1
+  size: 58, 43
+  orig: 58, 43
+  offset: 0, 0
+  index: -1
+images/pink_1
+  rotate: false
+  xy: 1795, 14
+  size: 83, 118
+  orig: 83, 118
+  offset: 0, 0
+  index: -1
+images/pink_2
+  rotate: true
+  xy: 1796, 134
+  size: 125, 88
+  orig: 125, 88
+  offset: 0, 0
+  index: -1
+images/pink_4
+  rotate: false
+  xy: 1705, 56
+  size: 88, 113
+  orig: 88, 113
+  offset: 0, 0
+  index: -1
+images/pink_5
+  rotate: false
+  xy: 1252, 147
+  size: 112, 112
+  orig: 112, 112
+  offset: 0, 0
+  index: -1
+images/red_1
+  rotate: false
+  xy: 1594, 60
+  size: 109, 109
+  orig: 109, 109
+  offset: 0, 0
+  index: -1
+images/red_2
+  rotate: false
+  xy: 1366, 147
+  size: 112, 112
+  orig: 112, 112
+  offset: 0, 0
+  index: -1
+images/rugby
+  rotate: false
+  xy: 1250, 39
+  size: 110, 106
+  orig: 112, 112
+  offset: 1, 4
+  index: -1
+images/tennis
+  rotate: false
+  xy: 1480, 147
+  size: 112, 112
+  orig: 112, 112
+  offset: 0, 0
+  index: -1
+images/volleyball
+  rotate: false
+  xy: 1886, 35
+  size: 112, 112
+  orig: 112, 112
+  offset: 0, 0
+  index: -1
+images/zhonfg
+  rotate: false
+  xy: 949, 75
+  size: 187, 184
+  orig: 187, 184
+  offset: 0, 0
+  index: -1
+
+emoti2.png
+size: 354,267
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/bonusSplit/bonusSplit0001
+  rotate: false
+  xy: 251, 72
+  size: 101, 89
+  orig: 151, 151
+  offset: 26, 31
+  index: -1
+images/bonusSplit/bonusSplit0002
+  rotate: false
+  xy: 247, 163
+  size: 107, 104
+  orig: 151, 151
+  offset: 19, 24
+  index: -1
+images/bonusSplit/bonusSplit0003
+  rotate: true
+  xy: 132, 5
+  size: 120, 113
+  orig: 151, 151
+  offset: 15, 19
+  index: -1
+images/bonusSplit/bonusSplit0004
+  rotate: false
+  xy: 0, 0
+  size: 130, 120
+  orig: 151, 151
+  offset: 2, 17
+  index: -1
+images/bonusSplit/bonusSplit0005
+  rotate: true
+  xy: 99, 127
+  size: 140, 133
+  orig: 151, 151
+  offset: 0, 4
+  index: -1
+images/bonusSplit/bonusSplit0006
+  rotate: false
+  xy: 0, 122
+  size: 97, 145
+  orig: 151, 151
+  offset: 31, 6
+  index: -1
+images/bonusSplit/bonusSplit0007
+  rotate: true
+  xy: 247, 10
+  size: 60, 53
+  orig: 151, 151
+  offset: 50, 0
+  index: -1
+images/bonusSplit/bonusSplit0008
+  rotate: true
+  xy: 234, 140
+  size: 21, 15
+  orig: 151, 151
+  offset: 90, 0
+  index: -1

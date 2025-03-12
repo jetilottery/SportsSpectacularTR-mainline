@@ -1,0 +1,101 @@
+{
+    "audioLoader": {
+        "yes": "Yes",
+        "no": "No",
+        "confirm": "Would you like sound?"
+    },
+    "title": "SPORTS-SPECTACULAR",
+    "Paytable": {
+        "RTPvalue": "{@minRTP}%",
+        "RTPrange": "from {@minRTP}% to {@maxRTP}%",
+        "RTPrangeStatic": "from 85.00% to 93.00%",
+        "paybackTitle": "Expected Payback",
+        "paybackBody": "For this game, the long-term, theoretically-expected payback is {RTP}."
+    },
+    "MenuCommand": {
+        "WLA": {
+            "howToPlay": "help",
+            "name": "Sports Spectacular",
+            "payTable": "Paytable",
+            "price": "Price",
+            "stake": "Stake",
+            "balance": "Balance",
+            "prizeDivision": "Prize Division",
+            "prizeValue": "Prize Value",
+            "approximatePrize": "Approximate Prizes Remaining",
+            "oddsPerPlay": "Odds Per Play",
+            "overAllOdds": "There is a 1 in {oddNum} overall chance of winning a prize on each play",
+            "availablePrices": "Available Price Points:{prices}"
+        },
+        "Commercial": {
+            "howToPlay": "help",
+            "name": "Sports Spectacular",
+            "payTable": "Paytable",
+            "price": "Price",
+            "stake": "Stake",
+            "balance": "Balance"
+        },
+        "audio": {
+            "on": "On",
+            "off": "Off",
+            "sound": "Sound"
+        }
+    },
+    "Error": {
+        "error29000": "Error:29000\n\nThere has been an internal error.\nEXIT and relaunch the game."
+    },
+    "Game": {
+        "tutorial": {
+            "tutorialTitle": "HOW TO PLAY0",
+            "tutorialPage": "Start the game with 6 wheel spins. {n} Collect the 3 Balls, or Trophy Bonus Symbols that are highlighted under the indicator in the Outer Wheel. {n} Increase the number of Balls or Trophies collected by spinning a {T01} or {T02} on the Middle Wheel. {n} Collect all the Balls in the corresponding prize meter to win a prize.0",
+            "tutorialPage01": "Collect {T03} to expand the indicator on the Outer Wheel to 5 Balls. {n} Collect {T04} to obtain an extra spin. {n} Collect {T05} to win an instant prize. {n} Collect {T06} in the prize meter to trigger the bonus game.0",
+            "tutorialPage02": "The bonus game starts with 3 initial spins. {n} Collect 4 or more {T06} on the grid to win a prize. {n} On each spin, if a {T06} is collected, the spins remaining are reset to 3. {n} Continue spinning until there are no spins remaining, or all 16 {T06} are collected.0"
+        },
+        "BONUS":"BONUS0",
+        "totalbonuswin": "BONUS WIN0",
+        "IWText": "PICK AN INSTANT WIN MEDAL0",
+        "bonuswin": "BONUS WIN0",
+        "find": "FIND0",
+        "win": "WIN0",
+        "demo": "TRY 0",
+        "spin_Left": "SPINS\nLEFT0",
+        "autospin": "AUTOSPIN0",
+        "button_buy": "BUY0",
+        "button_try": "TRY0",
+        "button_spin": "SPIN0",
+        "button_move2moneyGame": "MOVE TO MONEY0",
+        "button_autoPlay": "AUTO SPIN0",
+        "button_playAgain": "PLAY AGAIN0",
+        "button_MTMPlayAgain": "TRY AGAIN0",
+        "button_retry": "RETRY0",
+        "button_stop": "STOP0",
+        "wager": "TICKET COST0",
+        "meter_wager": "TICKET COST 0",
+        "balance": "BALANCE 0",
+        "wins": "WIN0",
+        "wins_demo": "DEMO WIN0",
+        "message_nonWin01": "BETTER LUCK0",
+        "message_nonWin02": "NEXT TIME0",
+        "message_buyWin": "TOTAL WIN0",
+        "message_tryWin": "TOTAL DEMO WIN0",
+        "message_anonymousTryWin": "TOTAL DEMO WIN0",
+        "message_close": "OK0",
+        "button_exit": "EXIT0",
+        "session_timeout_warning_exit_button": "EXIT0",
+        "error_button_exit": "EXIT0",
+        "warning_button_continue": "CONTINUE0",
+        "warning_button_exitGame": "EXIT0",
+        "warning_title": "WARNING0",
+        "error_title": "ERROR0",
+        "win_up_to": "WIN UP TO0",
+        "win_up_to_mark": "!0",
+        "tutorial_title": "HOW TO PLAY0",
+        "meter_division": " | 0",
+        "buttonClose": "X0",
+        "prizeLevel": "Prize Level0",
+        "prizeDescription": "Description0",
+        "prizeValue": "Prize Value0",
+        "paytableWager": "Ticket Cost:0",
+        "endBonus": "SPINS LEFT0"
+    }
+}

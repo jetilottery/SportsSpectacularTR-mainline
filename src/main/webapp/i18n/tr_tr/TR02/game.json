@@ -1,0 +1,110 @@
+{
+    "audioLoader":
+    {
+        "yes": "Evet",
+        "no": "Hayır",
+        "confirm": "Ses açılsın mı?"
+    },
+    "title": "SPORTS-SPECTACULAR",
+    "Paytable":
+    {
+        "RTPvalue": "%{@minRTP}",
+        "RTPrange": "%{@minRTP} ila %{@maxRTP} arasında",
+        "RTPrangeStatic": "%85,00 ila %93,00 arasında",
+        "paybackTitle": "Beklenen Kazanç Oranı",
+        "paybackBody": "Bu oyun için uzun vadeli, teorik olarak beklenen kazanç oranı {RTP}."
+    },
+    "MenuCommand":
+    {
+        "WLA":
+        {
+            "howToPlay": "yardım",
+            "name": "Sports Spectacular",
+            "payTable": "Ödeme Tablosu",
+            "price": "Fiyat",
+            "stake": "Yatırılan Miktar",
+            "balance": "Bakiye",
+            "prizeDivision": "Ödül Dağılımı",
+            "prizeValue": "Ödül Değeri",
+            "approximatePrize": "Kalan Yaklaşık Ödül Sayısı",
+            "oddsPerPlay": "Oyun Başına Oranlar",
+            "overAllOdds": "Oyun başına ödül kazanma şansı {oddNum} oyunda 1'dir",
+            "availablePrices": "Mevcut Fiyat Noktaları: {prices}"
+        },
+        "Commercial":
+        {
+            "howToPlay": "yardım",
+            "name": "Sports Spectacular",
+            "payTable": "Ödeme Tablosu",
+            "price": "Fiyat",
+            "stake": "Yatırılan Miktar",
+            "balance": "Bakiye"
+        },
+        "audio":
+        {
+            "on": "Açık",
+            "off": "Kapalı",
+            "sound": "Ses"
+        }
+    },
+    "Error":
+    {
+        "error29000": "Hata: 29000\n\nİç kaynaklı bir hata oluştu.\nÇIKIN ve oyunu yeniden başlatın."
+    },
+    "Game":
+    {
+        "tutorial":
+        {
+            "tutorialTitle": "OYUN KURALLARI",
+            "tutorialPage": "Oyuna 6 çarkı döndürerek başlayın. {n} Dış Çarktaki göstergenin altında vurgulanan 3 Topu veya Kupa Bonusu Sembollerini toplayın. {n} Orta Çarkta bir {T01} veya {T02} döndürerek toplanan Top veya Kupaların sayısını artırın. {n} Ödül kazanmak için ilgili ödül sayacındaki Topların hepsini toplayın.",
+            "tutorialPage01": "Dış Çarktaki göstergeyi 5 Topa çıkarmak için {T03} toplayın. {n} Ekstra döndürme hakkı kazanmak için {T04} toplayın. {n} Anında kazanç ödülü kazanmak için {T05} toplayın. {n} Bonus oyununu başlatabilmek için ödül sayacında {T06} toplayın.",
+            "tutorialPage02": "Bonus oyunu 3 başlangıç döndürmele başlar. {n} Ödül kazanmak için oyun alanında 4 veya daha fazla {T06} toplayın. {n} {T06} toplanan her döndürmede, kalan döndürme sayısı tekrar 3'e tamamlanır. {n} Döndürme hakkı kalmayana veya 16 {T06} toplanana kadar döndürmeye devam edin."
+        },
+        "BONUS": "BONUS",
+        "totalbonuswin": "BONUS KAZANCI",
+        "IWText": "BİR ANINDA KAZANÇ MADALYASI SEÇİN",
+        "bonuswin": "BONUS KAZANCI",
+        "find": "BUL",
+        "win": "KAZANÇ",
+        "demo": "OYNA ",
+        "spin_Left": "KALAN\nDÖNDÜRME",
+        "autospin": "OTO. OYNA",
+        "button_buy": "OYNA",
+        "button_try": "OYNA",
+        "button_spin": "OYNA",
+        "button_move2moneyGame": "GERÇEK OYUN MODUNA GEÇ",
+        "button_autoPlay": "OTO. OYNA",
+        "button_playAgain": "TEKRAR OYNA",
+        "button_MTMPlayAgain": "TEKRAR DENE",
+        "button_retry": "YENİDEN DENE",
+        "button_stop": "DURDUR",
+        "wager": "BİLET TUTARI",
+        "meter_wager": "BİLET TUTARI ",
+        "balance": "BAKİYE ",
+        "wins": "KAZANÇ",
+        "wins_demo": "DEMO KAZANCI",
+        "message_nonWin01": "TEKRAR",
+        "message_nonWin02": "DENEYİN",
+        "message_buyWin": "TOPLAM KAZANÇ",
+        "message_tryWin": "TOPLAM DEMO KAZANCI",
+        "message_anonymousTryWin": "TOPLAM DEMO KAZANCI",
+        "message_close": "TAMAM",
+        "button_exit": "ÇIK",
+        "session_timeout_warning_exit_button": "ÇIK",
+        "error_button_exit": "ÇIK",
+        "warning_button_continue": "DEVAM ET",
+        "warning_button_exitGame": "ÇIK",
+        "warning_title": "UYARI",
+        "error_title": "HATA",
+        "win_up_to": "X'E KADAR KAZAN",
+        "win_up_to_mark": "!",
+        "tutorial_title": "OYUN KURALLARI",
+        "meter_division": " | ",
+        "buttonClose": "X",
+        "prizeLevel": "Ödül Seviyesi",
+        "prizeDescription": "Açıklama",
+        "prizeValue": "Ödül Değeri",
+        "paytableWager": "Bilet Tutarı:",
+        "endBonus": "KALAN DÖNDÜRME"
+    }
+}

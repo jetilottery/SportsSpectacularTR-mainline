@@ -1,0 +1,110 @@
+{"frames": {
+
+"bonus_Spinleft.png":
+{
+	"frame": {"x":1496,"y":1,"w":176,"h":176},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":176,"h":176},
+	"sourceSize": {"w":176,"h":176}
+},
+"bonusspinButton.png":
+{
+	"frame": {"x":771,"y":838,"w":226,"h":94},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":226,"h":94},
+	"sourceSize": {"w":226,"h":94}
+},
+"bonusspinButtonInactive.png":
+{
+	"frame": {"x":999,"y":838,"w":226,"h":94},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":226,"h":94},
+	"sourceSize": {"w":226,"h":94}
+},
+"bonusspinButtonOver.png":
+{
+	"frame": {"x":1496,"y":179,"w":226,"h":94},
+	"rotated": true,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":226,"h":94},
+	"sourceSize": {"w":226,"h":94}
+},
+"bonusspinButtonPressed.png":
+{
+	"frame": {"x":1592,"y":179,"w":212,"h":88},
+	"rotated": true,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":212,"h":88},
+	"sourceSize": {"w":212,"h":88}
+},
+"borderLight1.png":
+{
+	"frame": {"x":1430,"y":1,"w":345,"h":64},
+	"rotated": true,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":345,"h":64},
+	"sourceSize": {"w":345,"h":64}
+},
+"emotiBG.png":
+{
+	"frame": {"x":1,"y":1,"w":647,"h":647},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":647,"h":647},
+	"sourceSize": {"w":647,"h":647}
+},
+"emotiCover.png":
+{
+	"frame": {"x":650,"y":485,"w":112,"h":111},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":112,"h":111},
+	"sourceSize": {"w":112,"h":111}
+},
+"lightEffect.png":
+{
+	"frame": {"x":650,"y":1,"w":778,"h":482},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":778,"h":482},
+	"sourceSize": {"w":778,"h":482}
+},
+"meterBG.png":
+{
+	"frame": {"x":771,"y":485,"w":351,"h":613},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":11,"y":15,"w":351,"h":613},
+	"sourceSize": {"w":375,"h":647}
+},
+"meterBG_p.png":
+{
+	"frame": {"x":1386,"y":485,"w":307,"h":395},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":307,"h":395},
+	"sourceSize": {"w":307,"h":395}
+},
+"winboxBG.png":
+{
+	"frame": {"x":1,"y":650,"w":768,"h":328},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":768,"h":328},
+	"sourceSize": {"w":768,"h":328}
+}},
+"animations": {
+},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "bonusgame.png",
+	"format": "RGBA8888",
+	"size": {"w":1694,"h":979},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:6d7e0235625a2fd1015eb7e5d6545dbf:b4be81f3ec5a8028afeb2765e3f64599:fe7845503a3a3ecadb84f73969a37f73$"
+}
+}

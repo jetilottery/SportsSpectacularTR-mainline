@@ -1,0 +1,41 @@
+{
+  "urls": [
+    "ch5.ogg",
+    "ch5.m4a"
+  ],
+  "sprite": {
+    "silence": [
+      0,
+      1000,
+      true
+    ],
+    "BaseSpinStopSymbol1": [
+      1050,
+      1166.8253968253966
+    ],
+    "BaseSpinStopSymbol2": [
+      3099.9999999999995,
+      1670.4535147392291
+    ],
+    "BaseSpinStopSymbol3": [
+      5149.999999999999,
+      613.3560090702952
+    ],
+    "BaseSpinStopSymbol4": [
+      6200,
+      1206.5986394557822
+    ],
+    "BaseSpinStopSymbol5": [
+      8250,
+      1225.8730158730166
+    ],
+    "BaseSpinStopSymbol6": [
+      10300,
+      1405.8730158730164
+    ],
+    "BaseSpinStopSymbolBonus": [
+      12350.000000000002,
+      2006.1904761904757
+    ]
+  }
+}

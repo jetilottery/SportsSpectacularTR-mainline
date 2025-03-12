@@ -1,0 +1,401 @@
+
+transitions.png
+size: 1926,2012
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bk
+  rotate: false
+  xy: 1575, 1008
+  size: 315, 1002
+  orig: 318, 1004
+  offset: 2, 1
+  index: -1
+blue1
+  rotate: false
+  xy: 2, 584
+  size: 1010, 1426
+  orig: 1029, 1456
+  offset: 2, 1
+  index: -1
+blue_line
+  rotate: true
+  xy: 814, 2
+  size: 580, 323
+  orig: 580, 327
+  offset: 0, 2
+  index: -1
+bt6
+  rotate: false
+  xy: 1646, 142
+  size: 278, 864
+  orig: 283, 934
+  offset: 4, 69
+  index: -1
+diandian
+  rotate: false
+  xy: 1139, 210
+  size: 505, 529
+  orig: 505, 530
+  offset: 0, 0
+  index: -1
+gd
+  rotate: true
+  xy: 2, 47
+  size: 535, 810
+  orig: 537, 812
+  offset: 1, 1
+  index: -1
+xuhua
+  rotate: false
+  xy: 1014, 741
+  size: 559, 1269
+  orig: 574, 1417
+  offset: 9, 60
+  index: -1
+
+transitions2.png
+size: 1994,1984
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bd
+  rotate: true
+  xy: 989, 2
+  size: 511, 810
+  orig: 513, 812
+  offset: 1, 1
+  index: -1
+bt1
+  rotate: true
+  xy: 880, 1326
+  size: 228, 848
+  orig: 260, 944
+  offset: 1, 1
+  index: -1
+bt2
+  rotate: true
+  xy: 2, 1301
+  size: 235, 870
+  orig: 259, 944
+  offset: 1, 1
+  index: -1
+bt3
+  rotate: true
+  xy: 874, 1088
+  size: 236, 875
+  orig: 259, 944
+  offset: 1, 1
+  index: -1
+bt4
+  rotate: true
+  xy: 659, 1765
+  size: 217, 848
+  orig: 247, 944
+  offset: 29, 95
+  index: -1
+bt5
+  rotate: true
+  xy: 2, 1538
+  size: 225, 876
+  orig: 247, 946
+  offset: 21, 69
+  index: -1
+gk
+  rotate: true
+  xy: 2, 529
+  size: 306, 1001
+  orig: 308, 1003
+  offset: 1, 1
+  index: -1
+gt1
+  rotate: true
+  xy: 912, 837
+  size: 249, 905
+  orig: 272, 975
+  offset: 22, 69
+  index: -1
+gt2
+  rotate: true
+  xy: 2, 844
+  size: 242, 908
+  orig: 264, 977
+  offset: 21, 68
+  index: -1
+gt3
+  rotate: true
+  xy: 2, 204
+  size: 323, 985
+  orig: 326, 1063
+  offset: 1, 1
+  index: -1
+gt4
+  rotate: true
+  xy: 1005, 515
+  size: 320, 987
+  orig: 322, 1064
+  offset: 1, 76
+  index: -1
+line
+  rotate: true
+  xy: 2, 1779
+  size: 203, 655
+  orig: 219, 676
+  offset: 8, 11
+  index: -1
+stars
+  rotate: true
+  xy: 1509, 1556
+  size: 426, 450
+  orig: 450, 450
+  offset: 0, 0
+  index: -1
+
+transitions3.png
+size: 1708,892
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+green1
+  rotate: false
+  xy: 904, 53
+  size: 802, 837
+  orig: 824, 906
+  offset: 18, 32
+  index: -1
+six
+  rotate: true
+  xy: 2, 2
+  size: 888, 900
+  orig: 890, 902
+  offset: 1, 1
+  index: -1
+
+transitions4.png
+size: 2042,1786
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+sixf/six_0000
+  rotate: false
+  xy: 2, 1783
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+sixf/six_0001
+  rotate: false
+  xy: 2, 1783
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+sixf/six_0030
+  rotate: false
+  xy: 2, 1783
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+sixf/six_0002
+  rotate: true
+  xy: 5, 1625
+  size: 159, 480
+  orig: 890, 902
+  offset: 209, 267
+  index: -1
+sixf/six_0003
+  rotate: true
+  xy: 487, 1614
+  size: 170, 487
+  orig: 890, 902
+  offset: 207, 261
+  index: -1
+sixf/six_0004
+  rotate: true
+  xy: 976, 1598
+  size: 186, 498
+  orig: 890, 902
+  offset: 202, 253
+  index: -1
+sixf/six_0005
+  rotate: true
+  xy: 1476, 1582
+  size: 202, 513
+  orig: 890, 902
+  offset: 199, 243
+  index: -1
+sixf/six_0006
+  rotate: true
+  xy: 645, 1362
+  size: 234, 621
+  orig: 890, 902
+  offset: 198, 183
+  index: -1
+sixf/six_0007
+  rotate: true
+  xy: 1268, 1327
+  size: 253, 636
+  orig: 890, 902
+  offset: 196, 170
+  index: -1
+sixf/six_0008
+  rotate: true
+  xy: 671, 1053
+  size: 272, 658
+  orig: 890, 902
+  offset: 196, 156
+  index: -1
+sixf/six_0009
+  rotate: true
+  xy: 2, 761
+  size: 290, 673
+  orig: 890, 902
+  offset: 196, 145
+  index: -1
+sixf/six_0010
+  rotate: true
+  xy: 2, 443
+  size: 306, 683
+  orig: 890, 902
+  offset: 196, 140
+  index: -1
+sixf/six_0011
+  rotate: false
+  xy: 1383, 354
+  size: 325, 690
+  orig: 890, 902
+  offset: 197, 136
+  index: -1
+sixf/six_0012
+  rotate: true
+  xy: 717, 2
+  size: 350, 697
+  orig: 890, 902
+  offset: 198, 131
+  index: -1
+sixf/six_0023
+  rotate: true
+  xy: 2, 87
+  size: 349, 713
+  orig: 890, 902
+  offset: 343, 77
+  index: -1
+sixf/six_0024
+  rotate: false
+  xy: 1710, 347
+  size: 330, 697
+  orig: 890, 902
+  offset: 362, 77
+  index: -1
+sixf/six_0025
+  rotate: true
+  xy: 687, 438
+  size: 311, 694
+  orig: 890, 902
+  offset: 381, 79
+  index: -1
+sixf/six_0026
+  rotate: true
+  xy: 677, 751
+  size: 293, 691
+  orig: 890, 902
+  offset: 399, 80
+  index: -1
+sixf/six_0027
+  rotate: true
+  xy: 1331, 1046
+  size: 279, 682
+  orig: 890, 902
+  offset: 413, 84
+  index: -1
+sixf/six_0028
+  rotate: true
+  xy: 2, 1098
+  size: 262, 667
+  orig: 890, 902
+  offset: 429, 89
+  index: -1
+sixf/six_0029
+  rotate: true
+  xy: 2, 1379
+  size: 233, 641
+  orig: 890, 902
+  offset: 454, 96
+  index: -1
+
+transitions5.png
+size: 2018,1489
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+sixf/six_0013
+  rotate: false
+  xy: 1282, 774
+  size: 371, 713
+  orig: 890, 902
+  offset: 200, 115
+  index: -1
+sixf/six_0014
+  rotate: true
+  xy: 1265, 378
+  size: 386, 718
+  orig: 890, 902
+  offset: 205, 110
+  index: -1
+sixf/six_0015
+  rotate: false
+  xy: 868, 766
+  size: 412, 721
+  orig: 890, 902
+  offset: 208, 107
+  index: -1
+sixf/six_0016
+  rotate: false
+  xy: 439, 7
+  size: 428, 738
+  orig: 890, 902
+  offset: 221, 88
+  index: -1
+sixf/six_0017
+  rotate: false
+  xy: 2, 747
+  size: 445, 740
+  orig: 890, 902
+  offset: 226, 84
+  index: -1
+sixf/six_0018
+  rotate: false
+  xy: 2, 7
+  size: 435, 738
+  orig: 890, 902
+  offset: 246, 81
+  index: -1
+sixf/six_0019
+  rotate: false
+  xy: 449, 757
+  size: 417, 730
+  orig: 890, 902
+  offset: 267, 78
+  index: -1
+sixf/six_0020
+  rotate: false
+  xy: 869, 41
+  size: 394, 723
+  orig: 890, 902
+  offset: 293, 77
+  index: -1
+sixf/six_0021
+  rotate: true
+  xy: 1265, 2
+  size: 374, 719
+  orig: 890, 902
+  offset: 315, 77
+  index: -1
+sixf/six_0022
+  rotate: false
+  xy: 1655, 771
+  size: 361, 716
+  orig: 890, 902
+  offset: 330, 77
+  index: -1
